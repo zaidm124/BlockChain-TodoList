@@ -1,1 +1,16 @@
 /* Styles go here */
+.todo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.space {
+  margin-left: 15px;
+}
+.none {
+  display: none;
+}
+.checked {
+  text-decoration: line-through;
+}
+
